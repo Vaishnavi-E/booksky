@@ -1,2 +1,25 @@
-# booksky
-BookSky is a React-based web app for managing a personal book collection. Users can add and view books instantly using a clean, responsive UI. I built reusable components, managed state with hooks, handled dynamic updates efficiently, and implemented basic form validation to ensure a smooth user experience.
+📚 BookSky
+
+BookSky is a simple React-based web application that allows users to manage their personal book collection. Users can add books with details like title, author, and description, and view them instantly in a clean and responsive interface.
+
+🚀 Features
+
+Add books with title, author, and description
+
+View books dynamically without page reload
+
+Responsive and user-friendly UI
+
+Basic form validation
+
+Component-based architecture using React
+
+🛠️ Tech Stack
+
+React.js
+
+JavaScript (ES6)
+
+HTML5
+
+CSS3
